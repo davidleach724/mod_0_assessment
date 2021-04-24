@@ -1,6 +1,6 @@
-var famousPerson = "John Coltrane";
+var famousPerson = 'John Coltrane';
 var isActive = false;
-famousPerson = "Charlie Parker";
+famousPerson = 'Charlie Parker';
 
 num3 = 21;
 num9 = 13;
