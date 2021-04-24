@@ -1,6 +1,6 @@
 var airport = {
-  name: "Will Rogers World Airport",
-  city: "Oklahoma City",
+  name: 'Will Rogers World Airport',
+  city: 'Oklahoma City',
   elevationFeet: 1295,
   terminals: 24,
   isBusy: false,
